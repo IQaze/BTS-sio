@@ -1,4 +1,4 @@
-class animal:
+class Animal:
   def __init__(self, nom,taille):
     self.nom = nom
     self.taille = taille
